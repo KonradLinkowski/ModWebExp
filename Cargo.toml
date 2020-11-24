@@ -8,6 +8,7 @@ edition = "2018"
 
 [dependencies]
 crossterm = "0.18"
-# clap = "2.33"
-clap = {version = "2.33", features = ["yaml"]}
-
+clap = "2.33"
+viuer = "0.2"
+rust-embed="5.6.0"
+yaml-rust = "0.4"

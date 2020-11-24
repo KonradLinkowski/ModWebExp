@@ -1,0 +1,7 @@
+# first yml test
+Simple array:
+  - first
+  - second
+  - third
+  - a: 10
+    b: 30
